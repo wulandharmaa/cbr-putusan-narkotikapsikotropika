@@ -2,6 +2,12 @@
 
 Sistem **Case-Based Reasoning (CBR)** untuk retrieval dan prediksi putusan perkara narkotika berdasarkan putusan Mahkamah Agung Republik Indonesia. Pipeline mencakup ekstraksi PDF, representasi kasus, retrieval berbasis TF-IDF & IndoBERT, prediksi solusi, hingga evaluasi model.
 
+## Anggota
+
+Wulan Dharma Putri - 202310370311279
+
+Rajwaa Rindu Izzany - 202310370311282
+
 ---
 
 ## Struktur Repository
