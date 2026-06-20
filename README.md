@@ -233,4 +233,3 @@ PDF Putusan MA RI (Google Drive)
 | **Domain** | Putusan Perkara Narkotika MA RI |
 | **Model Retrieval** | TF-IDF, IndoBERT (cosine similarity), SVM, Naive Bayes |
 | **Metrik Evaluasi** | Hit@k, Recall@k, MRR, Accuracy, F1-Score |
-| **Target Publikasi** | JOIV — International Journal on Informatics Visualization |
